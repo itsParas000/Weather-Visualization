@@ -29,7 +29,7 @@ This project focuses on analyzing and visualizing historical weather data using 
 ---
 
 - Temperature distribution (histogram)
-![Temperature distribution](Figs/Temperature%20Distribution.png)
+![Temperature distribution](Figs/Temperature)
 ---
 
 - Humidity vs. Temperature scatter plot
