@@ -23,10 +23,11 @@ This project focuses on analyzing and visualizing historical weather data using 
 
 ## 📊 Visualizations Included
 
+
 ---
 - Temperature trends over time
 
-![Temperature trends over time](Figs/Temperature Over Time.png)
+![Temperature trends over time](Figs/Temperature%20Trends.png)
 ---
 
 
