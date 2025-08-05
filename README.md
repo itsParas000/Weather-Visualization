@@ -25,34 +25,36 @@ This project focuses on analyzing and visualizing historical weather data using 
 
 ---
 - Temperature trends over time
-![Temperature trends over time](Figs/Temperature%20Over%20Time.png)
+![Temperature trends over time](Figs/Temperature Over Time.png)
 ---
 
 - Temperature distribution (histogram)
-![Temperature distribution](Figs/Temperature)
+![Temperature distribution](Figs/Temperature%20Distribution.png)
 ---
 
 - Humidity vs. Temperature scatter plot
-![Humidity vs. Temperature scatter plot](Figs/Humidity%20vs.%20Temperature.png)
+![Humidity vs. Temperature scatter plot](Figs/Himidity%20VS%20Temperature.png)
 ---
 
 - Monthly average temperature (bar plot)
-![Monthly average temperature](Figs/Monthly%20Average%20Temperature.png)
+![Monthly average temperature](Figs/Average%20Monthly%20Temperature.png)
 ---
 
 - Wind speed distribution
 ![Wind speed distribution](Figs/Wind%20Speed%20Distribution.png)
 ---
+
 - Weather condition frequency (bar plot)
-![Weather condition frequency](Figs/Weather%20Condition%20Frequency.png)
+![Weather condition frequency](Figs/Weather%20Condition%20Count.png)
 ---
 
 - Temperature by precipitation type (box plot)
-![Temperature by precipitation type](Figs/Temperature%20by%20Precipitation%20Type.png)
+![Temperature by precipitation type](Figs/Temperature%20By%20Precipitation%20Type.png)
 ---
 
 - Correlation heatmap
 ![Correlation heatmap](Figs/Correlation%20Heatmap.png)
+
 ---
 
 ## 🔍 Key Insights
