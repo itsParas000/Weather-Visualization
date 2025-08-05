@@ -101,6 +101,6 @@ This is a **Data Analysis** project that uncovers weather patterns using EDA tec
 ## 📁 Dataset
 
 - File used: `weatherHistory.csv`
-- Source: [Kaggle](https://www.kaggle.com)
+- Source: [Kaggle](https://www.kaggle.com/datasets/mohameddateff/weatherhistory)
 
 ---
