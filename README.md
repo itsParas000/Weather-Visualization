@@ -27,7 +27,7 @@ This project focuses on analyzing and visualizing historical weather data using 
 ---
 - Temperature trends over time
 
-![Temperature trends over time](Figs/Temperature%20Trends.png)
+![Temperature trends over time](Figs/Temperature%20Over%20Time.png)
 ---
 
 
