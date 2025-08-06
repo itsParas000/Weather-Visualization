@@ -29,41 +29,33 @@ This project focuses on analyzing and modeling historical weather data using Pyt
 ![Temperature trends over time](Figs/Temperature%20Over%20Time.png)
 ---
 
-
 - Temperature distribution (histogram)
 ![Temperature distribution](Figs/Temperature%20Distribution.png)
 ---
-
 
 - Humidity vs. Temperature scatter plot
 ![Humidity vs. Temperature scatter plot](Figs/Himidity%20VS%20Temperature.png)
 ---
 
-
 - Monthly average temperature
 ![Monthly average temperature](Figs/Average%20Monthly%20Temperature.png)
 ---
-
 
 - Wind speed distribution
 ![Wind speed distribution](Figs/Wind%20Speed%20Distribution.png)
 ---
 
-
 - Weather condition frequency
 ![Weather condition frequency](Figs/Weather%20Condition%20Count.png)
 ---
-
 
 - Temperature by precipitation type
 ![Temperature by precipitation type](Figs/Temperature%20By%20Precipitation%20Type.png)
 ---
 
-
 - Correlation heatmap
 ![Correlation heatmap](Figs/Correlation%20Heatmap.png)
 ---
-
 
 ---
 
@@ -89,10 +81,8 @@ This project focuses on analyzing and modeling historical weather data using Pyt
 ---
 - LinearRegression Model
 ![Actual vs Predicted Temperature](Figs/Actual%20vs%20Predicted%20Temperature%20(LR).png)
----
 
 
----
 - RandomForestRegressor Model
 ![RandomForestRegressor Model](Figs/Actual%20vs%20Predicted%20Temperature%20(RFR).png)
 ---
@@ -111,7 +101,7 @@ This project focuses on analyzing and modeling historical weather data using Pyt
 - **Challenges**: Some weather types (like ‘Clear’) are harder to classify using basic features.
 
 
----
+
 - Confusion Matrix
 ![Confusion Matrix](Figs/Confusion%20Matrix.png)
 ---
