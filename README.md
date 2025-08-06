@@ -1,4 +1,4 @@
-# 🌦️ Weather Data Visualization & ML Project
+# 🌦️ Weather Forecasting using Machine Learning
 
 This project focuses on analyzing and modeling historical weather data using Python libraries like pandas, matplotlib, seaborn, and scikit-learn. The dataset used is `WeatherDataset.csv`, containing weather metrics such as temperature, humidity, wind speed, and more.
 
